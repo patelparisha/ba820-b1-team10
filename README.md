@@ -4,7 +4,9 @@
 This repository contains the exploratory analysis and supporting materials for our BA820 project, which investigates structural patterns in two complex, real-world datasets using unsupervised, exploratory techniques. The primary focus is on identifying latent structure, imbalance, and variability that motivate domain-driven analytical questions rather than producing predictive models or final conclusions.
 
 Our primary dataset examines age disparities in on-screen romantic pairings in Hollywood films, while a secondary (backup) dataset explores patterns in U.S. fair use case law. Together, these datasets allow us to study how implicit structure emerges in cultural and legal domains.
+
 ---
+
 ## Datasets
 
 ### Primary Dataset: Hollywood Age Gap
