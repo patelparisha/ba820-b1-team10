@@ -30,7 +30,7 @@ Our primary dataset examines age disparities in on-screen romantic pairings in H
 ba820-b1-team10/
 - │
 - ├── main/ # Final proposal, figures, and written deliverables
--   └── README.md # Project overview and repository guide
+-     └── README.md # Project overview and repository guide
 - ├── EDA/ # Jupyter notebooks containing exploratory data analysis
 - ├── dataset/ # Raw datasets used for analysis (as provided)
 
