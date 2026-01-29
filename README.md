@@ -34,8 +34,6 @@ ba820-b1-team10/
 - ├── EDA/ # Jupyter notebooks containing exploratory data analysis
 - ├── dataset/ # Raw datasets used for analysis (as provided)
 
-
-
 ---
 
 ## Exploratory Data Analysis (EDA)
@@ -64,8 +62,17 @@ ChatGPT was used as a supportive tool for idea generation, drafting assistance, 
 
 ---
 
+## Team Members
+
+- **Parisha Patel** - pparisha@bu.edu
+- **Bhavya Bhavishi** - bhavyabb@bu.edu
+- **Inchara Ashok** - inchara@bu.edu
+- **Shanmathi Shivkumar** - shanu14@bu.edu
+
+---
+
 ## Course Information
 
 - **Course:** BA820 – Unsupervised Learning  
-- **Instructor:** [Instructor Name]  
+- **Instructor:** Prof. Mohannad Elhamod
 - **Institution:** Boston University – Questrom School of Business
