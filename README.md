@@ -30,7 +30,7 @@ Our primary dataset examines age disparities in on-screen romantic pairings in H
 ba820-b1-team10/
 - │
 - ├── main/ # Final proposal, figures, and written deliverables
--     └── README.md # Project overview and repository guide
+-  └── README.md # Project overview and repository guide
 - ├── EDA/ # Jupyter notebooks containing exploratory data analysis
 - ├── dataset/ # Raw datasets used for analysis (as provided)
 
@@ -55,15 +55,6 @@ EDA findings directly motivated the formulation of four domain-driven questions 
 - All EDA code is executable and organized in the `EDA/` directory  
 - Figures referenced in the proposal are generated from these notebooks  
 - No proprietary libraries or external credentials are required to run the analysis  
-
----
-
-## Team Contributions
-
-- **Parisha Patel:** Project coordination, dataset selection, EDA, synthesis of findings  
-- **Bhavya Bavishi:** Dataset feasibility analysis, exploratory visualizations  
-- **Inchara Ashok:** Trend analysis, variability assessment, EDA interpretation  
-- **Shanmathi Shivkumar:** Domain framing, business question formulation, editing  
 
 ---
 
